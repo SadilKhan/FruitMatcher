@@ -29,7 +29,7 @@ struct ContentView: View {
         
         VStack{
             // Name of the Game
-            Text("SwiftUI Slots")
+            Text("Fruit Matcher")
                 .padding().font(.system(size: 40))
             Spacer()
             
